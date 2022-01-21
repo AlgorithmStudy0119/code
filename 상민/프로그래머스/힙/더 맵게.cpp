@@ -18,11 +18,14 @@ int solution(vector<int> scoville, int K) {
     
     priority_queue<int, vector<int>, compare> food;
     
-    for(auto a : scoville)
-        food.push(a);
+    for(auto el : scoville)
+        food.push(el);
     
-    while(food.top() < 7)
+    while(food.top() < K)
     {
+        if(food.size() == 1)
+            return -1;
+        
         int curr = food.top();
         food.pop();
         int next = food.top();
