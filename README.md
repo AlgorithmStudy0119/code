@@ -1,9 +1,15 @@
-### Algorithm study with problems in Baekjoon Online Judge / Programmers
+## ✏️ 1주차
+- [1106 ) 호텔](https://www.acmicpc.net/problem/1106)
 
-> 2022-01-19
-* Baekjoon: 1106 (호텔)
-* Programmers: 해시, 스택/큐
+*과제*
+- [고득점킷 ) 해시](https://programmers.co.kr/learn/courses/30/parts/12077)
+- [고득점킷 ) 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)
 
-> 2022-01-21
-* Baekjoon: 4358(생태학), 17298(오큰수)
-* Programmers: 힙, 정렬
+
+## ✏️ 2주차
+- [4358 ) 생태학](https://www.acmicpc.net/problem/4358)
+- [17298 ) 오큰수](https://www.acmicpc.net/problem/17298)
+
+*과제*
+- [고득점킷 ) 힙](https://programmers.co.kr/learn/courses/30/parts/12117)
+- [고득점킷 ) 정렬](https://programmers.co.kr/learn/courses/30/parts/12198)
