@@ -13,6 +13,7 @@ int solution(int distance, vector<int> rocks, int n) {
     int start = 0; 
     int end = distance;
     while(start <= end){
+        //바위 사이의 거리
         int mid = (start + end)/2;
         
         //바위 제거 횟수
