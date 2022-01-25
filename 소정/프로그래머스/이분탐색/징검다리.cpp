@@ -19,6 +19,7 @@ int solution(int distance, vector<int> rocks, int n) {
         //바위 제거 횟수
         int cnt = 0;
         
+        //이전에 사용한 바위의 위치
         int prev = 0;
         
         for(int i=0; i<rocks.size(); i++){
