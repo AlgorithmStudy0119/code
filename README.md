@@ -23,7 +23,13 @@
 - [고득점킷 ) 완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230)
 - [고득점킷 ) 이분탐색](https://programmers.co.kr/learn/courses/30/parts/12486)
 
-## ✏️ 2022-01-26 (수)
+## ✏️ 2022-01-24 (월)
+- [1759 ) 암호 만들기](https://www.acmicpc.net/problem/1759)
+- [2110 ) 공유기 설치](https://www.acmicpc.net/problem/2110)
 
+*과제*
+- [고득점킷 ) 탐욕법](https://programmers.co.kr/learn/courses/30/parts/12244)
+- [고득점킷 ) 동적계획법](https://programmers.co.kr/learn/courses/30/parts/12263)
+- [고득점킷 ) DFS/BFS](https://programmers.co.kr/learn/courses/30/parts/12421)
 
 ## ✏️ 2022-02-04 (금)
