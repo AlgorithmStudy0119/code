@@ -33,3 +33,18 @@
 - [고득점킷 ) DFS/BFS](https://programmers.co.kr/learn/courses/30/parts/12421)
 
 ## ✏️ 2022-02-04 (금)
+- [23288 ) 주사위 굴리기2](https://www.acmicpc.net/problem/23288)
+
+*과제*
+- [고득점킷 ) 그래프](https://programmers.co.kr/learn/courses/30/parts/14393)
+
+
+
+
+## ✏️ 벌금 현황
+- [2022-02-04 ) total 4000]  "나정후:          +4000원"
+- [2022-02-04 ) total 0   ]  "스터디룸 대여비: -4000원"
+
+
+
+
