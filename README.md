@@ -38,7 +38,12 @@
 *과제*
 - [고득점킷 ) 그래프](https://programmers.co.kr/learn/courses/30/parts/14393)
 
+## ✏️ 2022-02-07 (월)
+- [2225 ) 합분해](https://www.acmicpc.net/problem/2225)
+- [12865 ) 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
+*과제*
+- [2022 KAKAO BLIND RECRUITMENT (2, 3, 5)](https://programmers.co.kr/learn/courses/30)
 
 
 ## ✏️ 벌금 현황
